@@ -20,7 +20,7 @@ body {
 }
 
 .header {
-    background-image: url(./img/1.png), url(./img/2.png), url(./img/BG\ \(1\).png);
+    background-image: url(./img/1.png), url(./img/2.png), url(./img/BG\ \(1\)\ \(2\).png);
     height: 100vh;
     background-size: 200px, 150px, cover;
     background-repeat: no-repeat;
