@@ -162,3 +162,47 @@ body {
     padding-left: 20px;
     padding-right: 20px;
 }
+
+.users {
+    background-color: beige;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background-image: url(./img/1.png), url(./img/BG\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: 200px 200px, 50vw 100vh;
+    background-position-x: 50%, 100%;
+    background-position-y: 80%;
+}
+
+.users-left {
+    width: 50%;
+    float: left;
+}
+
+.left-title {
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.left-text {
+    font-size: 21px;
+    color: #696871;
+}
+
+.left-link {
+    background-color: #F04037;
+    color: white;
+    font-size: 21px;
+    padding: 10px;
+}
+
+.left-item {
+    margin-top: 20px;
+}
+
+.right-img {
+    width: 500px;
+    height: 500px;
+    float: right;
+}
