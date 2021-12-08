@@ -172,7 +172,7 @@ body {
     background-repeat: no-repeat;
     background-size: 200px 200px, 50vw 100vh;
     background-position-x: 50%, 100%;
-    background-position-y: 80%;
+    background-position-y: 90%;
 }
 
 .users-left {
@@ -250,10 +250,17 @@ body {
     height: 100vh;
     display: flex;
     align-items: center;
+    float: right;
+    background-image: url(./img/1.png), url(./img/BG\ \(2\).jpg);
+    background-size: 200px 200px, 440px 600px;
+    background-position-x: 68%, right;
+    background-position-y: 70%, 50px;
+    background-repeat: no-repeat;
 }
 
 .savetons-left {
     width: 45%;
+    float: left;
 }
 
 .savetons-item {
@@ -276,5 +283,3 @@ body {
     color: white;
     padding: 10px;
 }
-
-.savetons-right-img
