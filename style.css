@@ -280,6 +280,28 @@ body {
 
 .savetons-left-link {
     background-color: #F04037;
-    color: white;
+    color: rgb(105, 95, 95);
     padding: 10px;
+}
+
+.customer {
+    background-color: #F7F7FB;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.customer-title {
+    font-size: 31px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.customer-text {
+    font-size: 17px;
+    font-weight: 700;
+    text-align: center;
+    width: 500px;
+    padding-left: 300px;
 }
